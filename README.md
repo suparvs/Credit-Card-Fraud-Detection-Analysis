@@ -1,2 +1,58 @@
-# Credit-Card-Fraud-Detection-Analysis
-FraudSense AI is an advanced AI-powered credit card fraud detection and fraud intelligence dashboard built using Streamlit, Plotly, and Python. The system analyzes transaction behavior, detects suspicious activities, calculates dynamic risk scores.
+# 🛡 FraudSense AI
+
+AI-powered credit card fraud detection and analytics dashboard built using Python, Streamlit, Pandas, and Plotly.
+
+FraudSense AI analyzes transaction behavior, detects suspicious activities, calculates risk scores, and provides detailed fraud investigation insights through an interactive dashboard.
+<img width="1885" height="1079" alt="Screenshot 2026-05-14 163846" src="https://github.com/user-attachments/assets/f7bbd564-9283-40db-b5a6-5bb7401f4361" />
+
+---
+
+## 🚀 Features
+
+* Fraud Detection Dashboard
+* Risk Score Analysis
+* AI Fraud Insights
+* Fraud Investigation Panel
+* Transaction Monitoring
+* Interactive Charts & Graphs
+* Cyberpunk UI Design
+
+---
+
+## 🛠 Tech Stack
+
+* Python
+* Streamlit
+* Pandas
+* Plotly
+* Custom CSS
+
+---
+
+## 📊 Dashboard Modules
+
+* Overview
+* Fraud Analysis
+* Risk Insights
+* AI Insights
+
+---
+
+## ▶ Run Locally
+
+```bash id="0tk0g0"
+pip install -r requirements.txt
+streamlit run app.py
+http://localhost:8501/
+
+---
+
+## 🎯 Objective
+
+To detect and analyze fraudulent credit card transactions using AI-driven behavioral analysis and risk assessment techniques.
+
+---
+
+## 👨‍💻 Developed By
+
+Suparv Saroach
