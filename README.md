@@ -39,9 +39,6 @@ FraudSense AI analyzes transaction behavior, detects suspicious activities, calc
 
 ## ▶ Run Locally
 
-```bash id="0tk0g0"
-pip install -r requirements.txt
-streamlit run app.py
 http://localhost:8501/
 
 ---
